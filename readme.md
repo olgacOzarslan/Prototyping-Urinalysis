@@ -70,6 +70,6 @@ RGB measurements are wirelessly transmitted to a mobile application for storage 
 
 This repository is provided **exclusively for portfolio and HR evaluation purposes**.  
 **Do not use, distribute, or modify** without prior written permission.  
-All rights reserved © 2025 [Your Name]
+All rights reserved © 2025 Olgaç Özarslan - Ziya Yıldız - Savaş Taşoğlu
 
 ---
